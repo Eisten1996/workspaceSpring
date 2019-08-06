@@ -6,6 +6,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\spring5\workspace\fisi"/>
 			<item value="C:\Users\Desarrollo\Downloads\fisi"/>
 		</list>
 		<list key="projectNameTemplate">
