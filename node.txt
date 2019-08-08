@@ -1,0 +1,16 @@
+-instalar el node-v10.16.2-x64 y reiniciar
+
+-ejecutar en el cmd
+npm install -g @angular/cli
+
+-dirigirse a la carpeta donde pondra el proyecto 
+D:node/
+-ejecutar
+ng new ejemplo01
+
+-En el visual estudio ejecutar
+ng serve
+
+-En el navegador 
+http://localhost:4200/
+

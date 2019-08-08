@@ -1,5 +1,0 @@
-package com.bolsadeideas.spring.web.app.controllers;
-
-public class IndexController {
-
-}
